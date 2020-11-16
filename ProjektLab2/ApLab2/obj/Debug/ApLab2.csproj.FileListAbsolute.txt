@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\Magisterka\C#.NET\ProjektLab2\ApLab2\bin\Debug\ApLab2.exe.config
+C:\Users\Lenovo\Desktop\Magisterka\C#.NET\ProjektLab2\ApLab2\bin\Debug\ApLab2.exe
+C:\Users\Lenovo\Desktop\Magisterka\C#.NET\ProjektLab2\ApLab2\bin\Debug\ApLab2.pdb
+C:\Users\Lenovo\Desktop\Magisterka\C#.NET\ProjektLab2\ApLab2\obj\Debug\ApLab2.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Magisterka\C#.NET\ProjektLab2\ApLab2\obj\Debug\ApLab2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Magisterka\C#.NET\ProjektLab2\ApLab2\obj\Debug\ApLab2.exe
+C:\Users\Lenovo\Desktop\Magisterka\C#.NET\ProjektLab2\ApLab2\obj\Debug\ApLab2.pdb
+C:\Users\Lenovo\Desktop\Magisterka\C#.NET\ProjektLab2\ApLab2\bin\Debug\ClassLibrary1.dll
+C:\Users\Lenovo\Desktop\Magisterka\C#.NET\ProjektLab2\ApLab2\bin\Debug\ClassLibrary1.pdb
+C:\Users\Lenovo\Desktop\Magisterka\C#.NET\ProjektLab2\ApLab2\obj\Debug\ApLab2.csproj.CopyComplete

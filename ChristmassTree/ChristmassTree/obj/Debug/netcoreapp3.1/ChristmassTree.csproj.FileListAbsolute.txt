@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Desktop\Magisterka\C#.NET\c-.NET_lab\ChristmassTree\ChristmassTree\bin\Debug\netcoreapp3.1\ChristmassTree.exe
+C:\Users\Lenovo\Desktop\Magisterka\C#.NET\c-.NET_lab\ChristmassTree\ChristmassTree\bin\Debug\netcoreapp3.1\ChristmassTree.deps.json
+C:\Users\Lenovo\Desktop\Magisterka\C#.NET\c-.NET_lab\ChristmassTree\ChristmassTree\bin\Debug\netcoreapp3.1\ChristmassTree.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Magisterka\C#.NET\c-.NET_lab\ChristmassTree\ChristmassTree\bin\Debug\netcoreapp3.1\ChristmassTree.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Magisterka\C#.NET\c-.NET_lab\ChristmassTree\ChristmassTree\bin\Debug\netcoreapp3.1\ChristmassTree.dll
+C:\Users\Lenovo\Desktop\Magisterka\C#.NET\c-.NET_lab\ChristmassTree\ChristmassTree\bin\Debug\netcoreapp3.1\ChristmassTree.pdb
+C:\Users\Lenovo\Desktop\Magisterka\C#.NET\c-.NET_lab\ChristmassTree\ChristmassTree\obj\Debug\netcoreapp3.1\ChristmassTree.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Magisterka\C#.NET\c-.NET_lab\ChristmassTree\ChristmassTree\obj\Debug\netcoreapp3.1\ChristmassTree.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Magisterka\C#.NET\c-.NET_lab\ChristmassTree\ChristmassTree\obj\Debug\netcoreapp3.1\ChristmassTree.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Magisterka\C#.NET\c-.NET_lab\ChristmassTree\ChristmassTree\obj\Debug\netcoreapp3.1\ChristmassTree.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Magisterka\C#.NET\c-.NET_lab\ChristmassTree\ChristmassTree\obj\Debug\netcoreapp3.1\ChristmassTree.dll
+C:\Users\Lenovo\Desktop\Magisterka\C#.NET\c-.NET_lab\ChristmassTree\ChristmassTree\obj\Debug\netcoreapp3.1\ChristmassTree.pdb
+C:\Users\Lenovo\Desktop\Magisterka\C#.NET\c-.NET_lab\ChristmassTree\ChristmassTree\obj\Debug\netcoreapp3.1\ChristmassTree.genruntimeconfig.cache

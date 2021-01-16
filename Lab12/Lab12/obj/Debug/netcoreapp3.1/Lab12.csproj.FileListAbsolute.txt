@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Desktop\Magisterka\C#.NET\c-.NET_lab\Lab12\Lab12\bin\Debug\netcoreapp3.1\Lab12.exe
+C:\Users\Lenovo\Desktop\Magisterka\C#.NET\c-.NET_lab\Lab12\Lab12\bin\Debug\netcoreapp3.1\Lab12.deps.json
+C:\Users\Lenovo\Desktop\Magisterka\C#.NET\c-.NET_lab\Lab12\Lab12\bin\Debug\netcoreapp3.1\Lab12.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Magisterka\C#.NET\c-.NET_lab\Lab12\Lab12\bin\Debug\netcoreapp3.1\Lab12.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Magisterka\C#.NET\c-.NET_lab\Lab12\Lab12\bin\Debug\netcoreapp3.1\Lab12.dll
+C:\Users\Lenovo\Desktop\Magisterka\C#.NET\c-.NET_lab\Lab12\Lab12\bin\Debug\netcoreapp3.1\Lab12.pdb
+C:\Users\Lenovo\Desktop\Magisterka\C#.NET\c-.NET_lab\Lab12\Lab12\obj\Debug\netcoreapp3.1\Lab12.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Magisterka\C#.NET\c-.NET_lab\Lab12\Lab12\obj\Debug\netcoreapp3.1\Lab12.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Magisterka\C#.NET\c-.NET_lab\Lab12\Lab12\obj\Debug\netcoreapp3.1\Lab12.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Magisterka\C#.NET\c-.NET_lab\Lab12\Lab12\obj\Debug\netcoreapp3.1\Lab12.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Magisterka\C#.NET\c-.NET_lab\Lab12\Lab12\obj\Debug\netcoreapp3.1\Lab12.dll
+C:\Users\Lenovo\Desktop\Magisterka\C#.NET\c-.NET_lab\Lab12\Lab12\obj\Debug\netcoreapp3.1\Lab12.pdb
+C:\Users\Lenovo\Desktop\Magisterka\C#.NET\c-.NET_lab\Lab12\Lab12\obj\Debug\netcoreapp3.1\Lab12.genruntimeconfig.cache
